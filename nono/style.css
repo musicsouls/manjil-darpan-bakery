@@ -1,0 +1,128 @@
+
+.main{
+
+
+    background-image: url("jyjy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 350px;
+}
+
+
+
+
+
+
+.carousel{
+    margin-top: 300px;
+    height: 500x;
+    width: 500px;
+    margin-left: 25px;
+
+    
+}
+.carousel-inner {
+    font-family: 'Square Peg', cursive;
+    color: white;
+    font-size: 40px;
+    margin-left: 350px;
+    margin-top: 400px;
+   
+    
+
+}
+.navbar-brand {
+font-style:normal;
+}
+.treat{
+    text-align:center;
+    color: brown;
+    margin-top: 30px;
+   color: white;
+   font-family: 'Anton', sans-serif;
+background-image: url(nol.jpg);
+height: 145px;
+margin-bottom: 15px ;
+
+
+    
+    
+}
+.about{
+    background-color:lightgrey ;
+    height: 500px;
+    text-align: center;
+    margin-top: 70px;
+   
+}
+.momo{
+    font-size: 45px;
+    color:brown;
+    margin-left: 45px;
+
+    
+}
+.fro{
+    font-style: italic;
+    color: brown;
+    margin-left: 45px;
+}
+.Pastry {
+    color:brown;
+    margin-left: 45px;
+    font-size: 45px;
+  
+}
+.cross {
+    color:brown;
+    margin-left: 45px;
+    font-size: 45px;
+}
+.patt {
+    color:brown;
+    margin-left: 45px;
+    font-size: 45px;
+}.bread {
+    color:brown;
+    margin-left: 45px;
+    font-size: 45px;
+}
+.dough {
+    color:brown;
+    margin-left: 45px;
+    font-size: 45px;
+}
+.cake {
+    color:brown;
+    margin-left: 45px;
+    font-size: 45px;
+}
+.MENU{
+    color: brown;
+    font-size: 100PX;
+    text-align: center;
+}
+.men{
+    background-image: url(design.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+.one{
+    margin-left: 45px;
+}
+.abo{
+    font-family: 'Anton', sans-serif;
+    background-image: url(bou.jpg);
+    background-repeat: none;
+    background-size: cover;
+    color: white;
+    height: 1000px;
+font-size:xx-large;
+   
+}
+.order{
+    margin-left: 1100px;
+}
+.container {
+    box-sizing: content-box;
+  }
